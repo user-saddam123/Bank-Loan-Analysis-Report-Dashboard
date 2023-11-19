@@ -4,10 +4,15 @@
 ### Table of Content
  * [project Overview](#project-objective-or-overview)
  * [KPI Requirement](#kpi-requirements)
- * [Good vs Bad Loan Kpis Requirement](#good-loan-vs-bad-loan-kpis)
+ * [Good vs Bad Loan Kpis Requirement](#good-loan-vs-bad-loan-kpis-requirement)
  * [Dashboard Overview Requirement](#dashboard-overview-requirements)
  * [Details Requirement](#details-requirement)
- * 
+ * [KPI Solution](#key-performance-indicators-kpis-in-the-report)
+ * [Good vs Bad Loan Analysis](#good-loan-vs-bad-loan-analysis)
+     * [Good Loan](#good-loan)
+     * [Bad Loan](#bad-loan)
+ * [Insights](#insights-and-analysis)
+ * [Loan Details](#detailed-loan-information)
 
 ### Project Objective or Overview
 To monitor and assess bank lending activities, a thorough bank loan analysis report was developed. The objective was to provide insights into key loan-related metrics and their changes over time, aiding data-driven decision-making, tracking loan portfolio health, and identifying trends for lending strategy.
@@ -25,7 +30,7 @@ To monitor and assess bank lending activities, a thorough bank loan analysis rep
 5. Average Debt-to-Income Ratio (DTI): Evaluate the average DTI for borrowers to gauge their financial health. Compute average DTI for all loans and analyze MTD and MoM changes.
 #
 
-### Good Loan vs. Bad Loan KPIs
+### Good Loan vs. Bad Loan KPIs Requirement
 
  * Good Loan Application Percentage: Calculate the percentage of loan applications classified as good loans. This category encompasses loans with a fully paid status.
  * Good Loan Applications: Identify the total number of good loan applications.
@@ -54,6 +59,7 @@ Utilize a table to present detailed information for each loan, including loan ID
 
 #
 #
+
 ### Key Performance Indicators (KPIs) in the Report:
 
 1. Total Loan Applications:
@@ -103,7 +109,8 @@ In addition, a detailed table breaks down loan types, funded amounts, total appl
 ![7](https://github.com/user-saddam123/Bank-Loan-Analysis-Report-Dashboard/assets/123800896/f440dc97-649b-4479-9430-f8096c122c36)
 #
 
-### Good Loan vs. Bad Loan Analysis
+### Good Loan vs Bad Loan Analysis
+
 #### Good Loan 
   * Good Loan Percentage: 75.51%
   * Good Loan Applications: 50,130
