@@ -149,9 +149,11 @@ A table provides comprehensive details for each loan, including loan ID, custome
 ![15](https://github.com/user-saddam123/Bank-Loan-Analysis-Report-Dashboard/assets/123800896/1f163ad6-e70d-4582-866a-9337b782f662)
 #
 
-If you find merit in my hard work and believe I'm eligible for a Power BI Developer or entry-level Data Analyst role, your support in finding opportunities would be greatly appreciated. View my resume here:[
+If you find merit in my hard work and believe I'm eligible for a Power BI Developer or entry-level Data Analyst role, your support in finding opportunities would be greatly appreciated. View my resume here:[Resume Link](https://drive.google.com/file/d/1xdTgnnhEF_-JXDBPdyO9zQQ2-dB61bU4/view?usp=drive_link)
 
-
+Dont Forgate to follow me on Linkedin [linedin link](https://www.linkedin.com/in/saddam-ansari-dataanalyst/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCopK25x5SJ%2BUsH27GSCZAw%3D%3D)
+# 
+Presented by-Saddam Ansari @ Aspiring Data Analyst
 
 
 
