@@ -1,6 +1,14 @@
 # Bank-Loan-Analysis-Report-Dashboard
 ## By- Saddam Ansari @Aspiring Data Analyst
 
+### Table of Content
+ * [project Overview](#project-objective-or-overview)
+ * [KPI Requirement](#kpi-requirements)
+ * [Good vs Bad Loan Kpis Requirement](#good-loan-vs-bad-loan-kpis)
+ * [Dashboard Overview Requirement](#dashboard-overview-requirements)
+ * [Details Requirement](#details-requirement)
+ * 
+
 ### Project Objective or Overview
 To monitor and assess bank lending activities, a thorough bank loan analysis report was developed. The objective was to provide insights into key loan-related metrics and their changes over time, aiding data-driven decision-making, tracking loan portfolio health, and identifying trends for lending strategy.
 #
@@ -18,6 +26,7 @@ To monitor and assess bank lending activities, a thorough bank loan analysis rep
 #
 
 ### Good Loan vs. Bad Loan KPIs
+
  * Good Loan Application Percentage: Calculate the percentage of loan applications classified as good loans. This category encompasses loans with a fully paid status.
  * Good Loan Applications: Identify the total number of good loan applications.
  * Good Loan Funded Amount: Calculate the total funded amount in the good loan category.
@@ -30,6 +39,7 @@ To monitor and assess bank lending activities, a thorough bank loan analysis rep
 #
 
 ### Dashboard Overview Requirements
+
 The dashboard will present crucial loan-related metrics and trends using various chart types to provide a clear and insightful view of lending operations.
 
 1. Monthly Trends by Funded Amount: Use a line chart to visualize monthly trends in total loan applications and total funded amount. Employ the issue date as the x-axis.
@@ -155,7 +165,7 @@ Dont Forgate to follow me on Linkedin [linedin link](https://www.linkedin.com/in
 # 
 Presented by-Saddam Ansari @ Aspiring Data Analyst
 
-
+Thank you❤.
 
 
 
